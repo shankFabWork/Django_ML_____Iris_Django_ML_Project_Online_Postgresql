@@ -1,7 +1,7 @@
 # Iris_Django_ML_Project_Online_Postgresql
 
 Aim :
-Build a ML enabled D1jango app to predict iris flower species from a user input
+Build a ML enabled Django app to predict iris flower species from a user input
 
 Objectives :
 Build & Train a model to classify different species of Iris flowers
